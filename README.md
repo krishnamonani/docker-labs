@@ -1,2 +1,7 @@
 # docker-labs
-[Lab-1 PDF.pdf](https://github.com/user-attachments/files/19094318/Lab-1.PDF.pdf)
+
+#Lab 1: Understanding Basic Docker Operations
+#Lab 2: Write Your First Dockerfile
+#Lab 3: Manage Multiple Containers Using Docker Compose Setup
+    
+
